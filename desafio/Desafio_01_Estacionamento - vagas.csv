@@ -1,0 +1,21 @@
+vaga_id,unidade_id,cidade_unidade,setor,andar,tipo_vaga,tarifa_hora
+1,C,Alves,A,A,C,2026-08-17
+2,B,Câmara,A,A,A,2026-02-12
+3,C,Rocha,A,C,C,2026-08-17
+4,C,Pastor,A,C,B,2026-05-10
+5,A,Borges,A,A,A,2026-03-09
+6,A,Novais,C,C,A,2026-03-03
+7,C,Câmara dos Dourados,A,C,C,2026-07-01
+8,C,Teixeira,C,B,A,2026-09-06
+9,B,Fernandes Paulista,C,B,A,2026-02-17
+10,A,Caldeira de Minas,C,B,B,2026-04-28
+1,82,Alves,C,2,Comum,"19,83"
+2,95,da Cruz de Goiás,A,4,PCD,"19,73"
+3,18,Rocha,C,9,Comum,"16,81"
+4,95,Pastor,A,1,Comum,"9,37"
+5,55,Alves,C,10,Comum,"16,22"
+6,12,da Conceição,C,9,VIP,"9,41"
+7,65,Novais,C,5,Comum,"20,18"
+8,26,Câmara dos Dourados,A,7,Idoso,"10,56"
+9,76,Abreu da Serra,A,6,Comum,"6,85"
+10,90,Fernandes Paulista,A,6,Idoso,"17,07"
